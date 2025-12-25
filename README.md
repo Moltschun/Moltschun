@@ -15,10 +15,11 @@
 На `1-м курсе` университета освоил системы проектирования печатных плат `KiCad` и `Altium Designer`. Параллельно начал `углубленное изучение схемотехники` и освоил `SolidWorks` для 3D-моделирования корпусов. Эти навыки позволили мне реализовать учебный проект полного цикла: от разработки принципиальной схемы и разводки платы до проектирования корпуса устройства. Активно участвую в хакатонах, демонстрируя стабильно неплохие результаты с разными командами. `Имею квалификационное свидетельство` монтажника РЭА 2-го разряда. Владею базовыми навыками работы с системой контроля версий `Git`.
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-
-На `2-м курсе` университета приступил к углубленному изучению встраиваемых систем. Освоил теорию архитектуры МК и перешел к практической реализации драйверов периферии (GPIO, UART, таймеры). Имею опыт работы с 8-битными платформами `(AVR ATmega328P)` и осуществил переход на 32-битную архитектуру `ARM Cortex-M3 (STM32F103C8T6)`. В качестве основной среды разработки использую `VS Code + PlatformIO`.
+На `2-м курсе` университета приступил к углубленному изучению встраиваемых систем. Освоил теорию архитектуры МК и перешел к практической реализации драйверов периферии (GPIO, UART, таймеры). Имею опыт работы с 8-битными платформами `(AVR ATmega328P)` и осуществил переход на 32-битную архитектуру `ARM Cortex-M3 (STM32F103C8T6)`. В качестве основной среды разработки использую `VS Code + PlatformIO`. В будущем планирую активно углубляться в `Real-Time Operating Systems (FreeRTOS)`, осваивая планирование задач, семафоры и очереди для повышения надежности и отзывчивости разрабатываемых устройств.
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Learning-yellow?style=for-the-badge&logo=freertos&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
