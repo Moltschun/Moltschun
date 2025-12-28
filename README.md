@@ -23,3 +23,6 @@
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-%23222.svg?style=for-the-badge&logo=platformio&logoColor=%23f5822a)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Learning-yellow?style=for-the-badge&logo=freertos&logoColor=white)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+
+
+# Студент и энтузиаст электроники. Изучаю микроконтроллеры, используя регистры и документацию.
