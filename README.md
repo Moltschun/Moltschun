@@ -16,6 +16,8 @@
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+[![KiCad](https://img.shields.io/badge/KiCad-3145A1?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
+[![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)](https://www.altium.com/altium-designer/)
 
 На `2-м курсе` университета приступил к углубленному изучению встраиваемых систем. Освоил теорию архитектуры МК и перешел к практической реализации драйверов периферии (GPIO, UART, таймеры). Имею опыт работы с 8-битными платформами `(AVR ATmega328P)` и осуществил переход на 32-битную архитектуру `ARM Cortex-M3 (STM32F103C8T6)`. В качестве основной среды разработки использую `VS Code + PlatformIO`. В будущем планирую активно углубляться в `Real-Time Operating Systems (FreeRTOS)`, осваивая планирование задач, семафоры и очереди для повышения надежности и отзывчивости разрабатываемых устройств.
 
