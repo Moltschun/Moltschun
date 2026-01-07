@@ -29,5 +29,6 @@
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Learning-yellow?style=for-the-badge&logo=freertos&logoColor=white)
 ![CMSIS](https://img.shields.io/badge/CMSIS-Learning-yellow?style=for-the-badge&logo=freertos&logoColor=white)
 ![STM32 HAL](https://img.shields.io/badge/STM32_HAL-Learning-yellow?style=for-the-badge&logo=freertos&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # Студент и энтузиаст электроники. Изучаю микроконтроллеры, используя регистры и документацию.
