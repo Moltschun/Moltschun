@@ -54,8 +54,8 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-24292E?style=for-the-badge&logo=platformio&logoColor=orange)
+![CMSIS](https://img.shields.io/badge/-CMSIS-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Learning-FCC624?style=for-the-badge&logo=freertos&logoColor=white)
-![CMSIS](https://img.shields.io/badge/CMSIS-Learning-FCC624?style=for-the-badge&logo=freertos&logoColor=white)
 ![STM32 HAL](https://img.shields.io/badge/STM32_HAL-Learning-FCC624?style=for-the-badge&logo=freertos&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
