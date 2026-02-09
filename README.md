@@ -28,7 +28,7 @@
  **Моя траектория:**
 - **Школа:** Осознал, что физика и электроника — это интересно. Изучил Python и C++.
 - **1-й курс:** Освоил **KiCad** и **Altium Designer**. Научился 3D-моделированию в **SolidWorks**. Реализовал проект полного цикла (Схема → PCB → Корпус). Получил 2-й разряд монтажника РЭА.
-- **2-й курс:** Углубление в Embedded. Драйверы периферии, STM32, VS Code + PlatformIO.
+- **2-й курс:** Углубление в Embedded. Драйверы периферии, STM32, VS Code + PlatformIO. Полная миграция на Linux (Arch) как основную среду разработки. Работа с терминалом (Bash), управление пакетами и правами доступа.
 
 ---
 
@@ -38,6 +38,7 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Microcontrollers & Platforms
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -55,9 +56,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-24292E?style=for-the-badge&logo=platformio&logoColor=orange)
 ![CMSIS](https://img.shields.io/badge/-CMSIS-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Learning-FCC624?style=for-the-badge&logo=freertos&logoColor=white)
 ![STM32 HAL](https://img.shields.io/badge/STM32_HAL-Learning-FCC624?style=for-the-badge&logo=freertos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
