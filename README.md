@@ -59,7 +59,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Learning-FCC624?style=for-the-badge&logo=freertos&logoColor=white)
-![STM32 HAL](https://img.shields.io/badge/STM32_HAL-Learning-FCC624?style=for-the-badge&logo=freertos&logoColor=white)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-Learning-FCC624?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
 ---
 
