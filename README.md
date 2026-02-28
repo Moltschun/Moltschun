@@ -61,6 +61,7 @@
 ![CMSIS](https://img.shields.io/badge/-CMSIS-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Buildroot](https://img.shields.io/badge/Buildroot-24292E?style=for-the-badge&logo=gnu&logoColor=FCC624)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Learning-FCC624?style=for-the-badge&logo=freertos&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-Learning-FCC624?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
 
