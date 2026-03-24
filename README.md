@@ -2,7 +2,7 @@
 
 # Даниил Светашов
 
-### Embedded Developer | Electronics Engineer | Student @ TPU
+### Embedded Linux Developer | Electronics Engineer | Student @ TPU
 
 *"У пилота нет цели, есть только траектория."*
 
