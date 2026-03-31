@@ -70,7 +70,7 @@
 
 - [ ] **Real-Time OS:** Освоение FreeRTOS (Tasks, Semaphores, Queues).
 - [ ] **Interfaces:** Глубокое понимание USB, CAN, Ethernet.
-- [ ] **Linux Embedded:** Изучение Kernel, Drivers, Yocto, Buildroot.
+- [x] **Linux Embedded:** Изучение Kernel, Drivers, Yocto, Buildroot.
 - [ ] **Debugging:** Продвинутая отладка (SWD, JTAG, OpenOCD).
 
 ---
