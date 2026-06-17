@@ -22,9 +22,6 @@
 
 **Текущий статус:**
 - Работаю в **Лаборатории теплового контроля ИШНКБ ТПУ** (разработка ПО для дефектоскопов).
-- Перехожу с 8-битных архитектур (AVR) на 32-битные (ARM Cortex-M3/STM32).
-- Изучаю **Bare Metal** программирование (CMSIS, Registers) для глубокого понимания железа.
-- Изучаю **Arch Linux** в качестве основной ОС и фундаментальной платформы для **Embedded-разработки**.
 
  **Моя траектория:**
 - **Школа:** Осознал, что физика и электроника — это интересно. Изучил Python и C++.
@@ -37,9 +34,9 @@
 
 ### Languages & Firmware
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Microcontrollers & Platforms
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
@@ -47,19 +44,25 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
-
 ### Hardware Engineering (EDA / CAD)
 ![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
 ![KiCad](https://img.shields.io/badge/KiCad-3145A1?style=for-the-badge&logo=kicad&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D32D26?style=for-the-badge&logo=solidworks&logoColor=white)
 
+### FPGA & Digital Design
+![Verilog](https://img.shields.io/badge/Verilog-006600?style=for-the-badge&logo=verilog&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-6A0DAD?style=for-the-badge&logo=semiconductor&logoColor=white)
+
 ### Tools & Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-24292E?style=for-the-badge&logo=platformio&logoColor=orange)
 ![CMSIS](https://img.shields.io/badge/-CMSIS-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Buildroot](https://img.shields.io/badge/Buildroot-24292E?style=for-the-badge&logo=gnu&logoColor=FCC624)
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Learning-FCC624?style=for-the-badge&logo=freertos&logoColor=white)
 ![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-Learning-FCC624?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
