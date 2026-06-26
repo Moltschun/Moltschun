@@ -60,6 +60,7 @@
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PlatformIO](https://img.shields.io/badge/PlatformIO-24292E?style=for-the-badge&logo=platformio&logoColor=orange)
 ![CMSIS](https://img.shields.io/badge/-CMSIS-0091BD?style=for-the-badge&logo=arm&logoColor=white)
