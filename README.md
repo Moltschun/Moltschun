@@ -70,15 +70,6 @@
 
 ---
 
-## Ближайшие цели (Roadmap)
-
-- [ ] **Real-Time OS:** Освоение FreeRTOS (Tasks, Semaphores, Queues).
-- [ ] **Interfaces:** Глубокое понимание USB, CAN, Ethernet.
-- [x] **Linux Embedded:** Изучение Kernel, Drivers, Yocto, Buildroot.
-- [ ] **Debugging:** Продвинутая отладка (SWD, JTAG, OpenOCD).
-
----
-
 <div align="center">
   <i>"Trust me, I'm an Engineer."</i>
 </div>
