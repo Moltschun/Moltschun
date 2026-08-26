@@ -2,7 +2,7 @@
 
 # Даниил Светашов
 
-### Embedded Linux Developer | Electronics Engineer | Student @ TPU
+### SoC & FPGA Engineer | Embedded Linux Developer | RTL Designer
 
 *"У пилота нет цели, есть только траектория."*
 
@@ -18,30 +18,31 @@
 ## Обо мне
 
 Я студент **Томского политехнического университета** (11.03.04 «Электроника и наноэлектроника»).  
-Увлечен созданием устройств "с нуля": от идеи и схемотехники до печатной платы, корпуса и прошивки.
+Специализируюсь на проектировании аппаратно-программных комплексов на базе ПЛИС (FPGA) и процессоров архитектуры ARM, разработке синтезируемой логики на **SystemVerilog** и системном программировании под **Embedded Linux**.
 
 **Текущий статус:**
-- Работаю в **Лаборатории теплового контроля ИШНКБ ТПУ** (разработка ПО для дефектоскопов).
-
- **Моя траектория:**
-- **Школа:** Осознал, что физика и электроника — это интересно. Изучил Python и C++.
-- **1-й курс:** Освоил **KiCad** и **Altium Designer**. Научился 3D-моделированию в **SolidWorks**. Реализовал проект полного цикла (Схема → PCB → Корпус). Получил 2-й разряд монтажника РЭА.
-- **2-й курс:** Углубление в Embedded. Драйверы периферии, STM32, VS Code + PlatformIO. Полная миграция на Linux (Arch) как основную среду разработки. Работа с терминалом (Bash), управление пакетами и правами доступа. Осваиваю работу с **Buildroot** для создания кастомных минималистичных образов Linux под ARM_64. Проектирую архитектуру взаимодействия Linux-хоста (Raspberry Pi) и микроконтроллера (STM32) на уровне регистров (CMSIS).
+- **Дипломный проект (Zynq-7000 SoC):** Разработка комплекса захвата 14-битного RAW-видеопотока с тепловизора DALI ZE1920NT. Реализация конвейера MIPI CSI-2 → обработка в ПЛИС → AMBA AXI4-Stream → Xilinx AXI DMA (Scatter-Gather) → когерентная память DDR → драйверы подсистемы V4L2.
+- **Работаю в лаборатории теплового контроля ИШНКБ ТПУ** Разработка аппаратно-программного комплекса для решения проблем с тепловизионным модулем.
+- **Конфигурация среды:** Полностью работаю в кастомизированной среде **Arch Linux** (Zsh, Neovim, Yazi). Развертывание тяжелых САПР (Xilinx Vivado) реализую внутри изолированных Docker-контейнеров для обеспечения стабильности сборочных процессов.
 
 ---
 
-## Технический Арсенал
+## Hard Skills
 
-### Languages & Firmware
+### FPGA & Digital Design
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-006600?style=for-the-badge&logo=verilog&logoColor=white)
+![Vivado](https://img.shields.io/badge/Vivado-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-6A0DAD?style=for-the-badge&logo=semiconductor&logoColor=white)
+![AMBA AXI](https://img.shields.io/badge/AMBA_AXI4-Protocol-FF4500?style=for-the-badge)
+
+### Embedded Linux & Firmware
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Microcontrollers & Platforms
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PetaLinux](https://img.shields.io/badge/PetaLinux-Tools-24292E?style=for-the-badge&logo=linux&logoColor=white)
+![Buildroot](https://img.shields.io/badge/Buildroot-24292E?style=for-the-badge&logo=gnu&logoColor=FCC624)
 ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
 
 ### Hardware Engineering (EDA / CAD)
@@ -49,25 +50,12 @@
 ![KiCad](https://img.shields.io/badge/KiCad-3145A1?style=for-the-badge&logo=kicad&logoColor=white)
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D32D26?style=for-the-badge&logo=solidworks&logoColor=white)
 
-### FPGA & Digital Design
-![Verilog](https://img.shields.io/badge/Verilog-006600?style=for-the-badge&logo=verilog&logoColor=white)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-1E90FF?style=for-the-badge&logo=verilog&logoColor=white)
-![Vivado](https://img.shields.io/badge/Vivado-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-6A0DAD?style=for-the-badge&logo=semiconductor&logoColor=white)
-
 ### Tools & Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-24292E?style=for-the-badge&logo=platformio&logoColor=orange)
-![CMSIS](https://img.shields.io/badge/-CMSIS-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![Buildroot](https://img.shields.io/badge/Buildroot-24292E?style=for-the-badge&logo=gnu&logoColor=FCC624)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-Learning-FCC624?style=for-the-badge&logo=freertos&logoColor=white)
-![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-Learning-FCC624?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-
+![Neovim](https://img.shields.io/badge/Neovim-%2311AB00.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![Bash/Zsh](https://img.shields.io/badge/Zsh_&_Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ---
 
 <div align="center">
