@@ -51,6 +51,7 @@
 ![SolidWorks](https://img.shields.io/badge/SolidWorks-D32D26?style=for-the-badge&logo=solidworks&logoColor=white)
 
 ### Tools & Environment
+![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![Debian](https://img.shields.io/badge/Debian-%23D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-%2311AB00.svg?style=for-the-badge&logo=neovim&logoColor=white)
