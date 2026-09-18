@@ -35,6 +35,7 @@
 ![Vivado](https://img.shields.io/badge/Vivado-%23ED1C24.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![FPGA](https://img.shields.io/badge/FPGA-6A0DAD?style=for-the-badge&logo=semiconductor&logoColor=white)
 ![AMBA AXI](https://img.shields.io/badge/AMBA_AXI4-Protocol-FF4500?style=for-the-badge)
+![RISC-V](https://img.shields.io/badge/riscv-%23283272.svg?style=for-the-badge&logo=riscv&logoColor=white)
 
 ### Embedded Linux & Firmware
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -58,6 +59,11 @@
 ![Bash/Zsh](https://img.shields.io/badge/Zsh_&_Bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2311557C.svg?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ---
 
 <div align="center">
